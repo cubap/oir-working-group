@@ -18,7 +18,14 @@ The charter is the group's first deliverable. It must cover at minimum:
 
 ## Current state
 
-Nothing is decided yet. Start with the charter issue.
+The group is forming now. A draft charter (see `charter.md`) and a short recommendation memo (see `FINAN_RECOMMENDATION.md`) have been prepared to illustrate how the working group can operate without requiring immediate funding.
+
+## Recommendation Summary
+
+- **Labor structure:** Technical lead (Patrick Cuba) and infrastructure lead (Bryan Haberberger) own the AI/LLM and platform work; Finan focuses on leadership, scholarship, and community engagement.
+- **First‑year deliverable:** A concrete worked example of a contested medieval entity encoded with ambiguity‑preserving RDF★STAR and provenance.
+- **Governance:** A provisional charter (v0.1) defining Users, Data Scope, Encoding, Attribution, and Assertion, with all sections marked `UNVERIFIED` where evidence is still pending.
+- **Next steps:** Convene a virtual kickoff (draft agenda in the charter), invite repository owners (DRI, VRTI, Logainm, others), and schedule a month‑long survey of existing data sources.
 
 ## Origin
 
